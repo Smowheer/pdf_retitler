@@ -1,6 +1,10 @@
 # pdf_retitler
-pdf retitling utility
+Small bash pdf retitling utility
 
-still has bugs as I'm a noob in bash
-will read this tutorial and improve later:
-http://mywiki.wooledge.org/BashGuide
+Based on the programs bash and pdfinfo. 
+Just renames the \*.pdf files with the title
+information given by pdfinfo \*.pdf.
+
+
+Some useful bash tutorial:
+  http://mywiki.wooledge.org/BashGuide
